@@ -207,4 +207,5 @@ Sidebar
   color: var(--primary-800);
 }
 ```
+
 # sidebar-modal-app
