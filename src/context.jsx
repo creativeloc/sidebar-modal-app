@@ -28,7 +28,7 @@ export const AppProvider = ({ children }) => {
         openModal,
         openSidebar,
         closeModal,
-        closeModal
+        closeSidebar
       }}
     >
       {children}
