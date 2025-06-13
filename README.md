@@ -138,10 +138,10 @@ Sidebar
   row-gap: 1rem;
   box-shadow: var(---red-dark);
   transition: var(--transition);
-  transform: translate(-100%);
+  transform: translateX(-100%);
 }
 .show-sidebar {
-  transform: translate(0);
+  transform: translateX(0);
 }
 @media screen and (min-width: 676px) {
   .sidebar {
